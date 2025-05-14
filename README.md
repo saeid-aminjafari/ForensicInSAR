@@ -234,7 +234,7 @@ Presents a method combining **temporal clustering**, **spatial grouping**, and *
 
 ## 4. Implementation Options
 
-You propose three implementation ideas, all building on the literature reviewed above.
+We propose three implementation ideas, all building on the literature reviewed above.
 
 ---
 
