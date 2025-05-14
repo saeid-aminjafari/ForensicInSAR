@@ -238,7 +238,7 @@ We propose three implementation ideas, all building on the literature reviewed a
 
 ---
 
-### ✅ Idea #1: Combine Chang et al. [1] + Schlögl et al. [2]
+### Idea #1: Combine Chang et al. [1] + Schlögl et al. [2]
 
 #### Goal
 Detect and decompose deformation patterns in a failed railway segment, compare them to other high-deformation areas, and evaluate whether failure-linked deformation has **unique temporal or environmental features**.
@@ -325,7 +325,7 @@ Outputs:
 
 ---
 
-### ✅ Idea #2: Modify Kuzu et al. (2023) — Ground Motion Anomaly Detection (Soft-DTW + DEM, Post-hydro Analysis)
+### Idea #2: Modify Kuzu et al. (2023) — Ground Motion Anomaly Detection (Soft-DTW + DEM, Post-hydro Analysis)
 
 #### Step 0 — Data Preparation
 
@@ -419,7 +419,7 @@ Outputs:
 
 ---
 
-### ✅ Idea #3: Combine Kuzu et al. [4] + Bai et al. [5] — KCC + LSTM Pipeline on EGMS
+### Idea #3: Combine Kuzu et al. [4] + Bai et al. [5] — KCC + LSTM Pipeline on EGMS
 
 This is the preferred implementation for vector-based EGMS PS point data.
 
