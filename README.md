@@ -489,7 +489,7 @@ It supports:
 
 ---
 
-## 5. Detailed Workflow (for Idea #3)
+### Detailed Workflow (for Idea #3)
 
 ### Step 1: Preprocess EGMS shapefiles
 - Load Asc and Dsc PS data.
@@ -528,7 +528,7 @@ It supports:
 
 ---
 
-## 6. References
+## 5. References
 
 [1] Chang, L., Dollevoet, R. P. B. J., & Hanssen, R. F. (2017). Nationwide Railway Monitoring Using Satellite SAR Interferometry. *IEEE J. Sel. Top. Appl. Earth Obs. Remote Sens.*, 10(2), 596–604. https://doi.org/10.1109/JSTARS.2016.2584783
 
